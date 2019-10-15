@@ -1,0 +1,3 @@
+# Algo_files
+
+This file contains few functions like mergeSort,createGraph,createNode and it uses few struct like node,graph... 
